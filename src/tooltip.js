@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PropTypes from 'react-proptypes';
+import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
 import { connect } from 'react-redux';
 import { sanitize } from 'dompurify';
