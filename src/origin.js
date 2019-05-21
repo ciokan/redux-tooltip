@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PropTypes from 'react-proptypes';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import blacklist from 'blacklist';
 import { show, hide, delay } from './actions';
